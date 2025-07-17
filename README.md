@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AbdeslamKarawi/AbdeslamKarawi/main/assets/dev.png" alt="Developer at work" width="300"/>
-</p>
-
 # 👋 Hi, I'm Abdeslam Karawi
 
 Welcome to my GitHub! I'm a **Moroccan developer**, passionate about building useful and meaningful websites for real people.  
@@ -61,3 +57,4 @@ A dynamic website for managing Moroccan administrative documents by category:
 
 > “Coding is not just syntax — it's about creating something useful.”  
 — Abdeslam
+
