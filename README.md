@@ -1,13 +1,15 @@
 # 👋 Hi, I'm Abdeslam Karawi
 
-Welcome to my GitHub! I'm a **Moroccan developer**, passionate about building useful and meaningful websites for real people.  
-Currently a **student at the Arabic University in Rashidiyah**, pursuing a diploma in **IT development** at MultiHexa Institute.
+I am a Moroccan developer passionate about building useful and meaningful websites for real people.
+I am currently a graduate of Institut Multihexa Errachidia, specializing as a Technical Computer Science Technician.
+
+
 
 ---
 
 ## 🔧 Tech Stack
 
-- 🌐 **Front-End**: HTML5, CSS3, JavaScript  
+- 🌐 **Front-End**: HTML5, CSS3, JavaScript, React.Js 
 - 🎨 Styling: Tailwind CSS  
 - ⚙️ **Back-End**: PHP, MySQL  
 - 🎯 Tools: Git, GitHub, VS Code
@@ -15,18 +17,12 @@ Currently a **student at the Arabic University in Rashidiyah**, pursuing a diplo
 ---
 
 ## 🔥 Projects
+PROJECT 1: https://abdesslam-karaoui.github.io/Abdo/
+PROJECT 2: https://abdesslam-karaoui.github.io/amogoe/
+PROJECT 3: https://abdesslam-karaoui.github.io/Travel/
+PROJECT 4: https://abdesslam-karaoui.github.io/ABDO-PORT/
+PROJECT 5: https://abdesslam-karaoui.github.io/Home/
 
-### 📌 [Wathiqati.ma](https://github.com/AbdeslamKarawi/wathiqati) (My Capstone Project)
-A dynamic website for managing Moroccan administrative documents by category:
-- User roles (admin/user)
-- Upload & download PDFs/Word files
-- Contact form with message storage
-- Modern UI with icons and animations
-
-### 🛠️ Other Projects
-- **Reservation System** using HTML/CSS/JS + PHP/MySQL (Internship project at Faculty of Sciences, Errachidia)
-- **Responsive PDF Course Site** for students
-- **Podcast and Audiobook Platform** (Work in progress)
 
 ---
 
@@ -40,13 +36,7 @@ A dynamic website for managing Moroccan administrative documents by category:
 
 ---
 
-## 🎯 Goals
 
-- Build platforms that help **students** and **citizens** access services easily
-- Combine **design**, **code**, and **content** in creative ways
-- Use tech to solve **real problems in Morocco**
-
----
 
 ## 📫 Let's Connect
 
