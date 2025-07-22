@@ -40,8 +40,8 @@ PROJECT 5: https://abdesslam-karaoui.github.io/Home/
 
 ## 📫 Let's Connect
 
-- 📩 Email: abdeslamkarawi@gmail.com  
-- 📷 Instagram: [@abdeslam.karawi](https://www.instagram.com/abdeslam.karawi)
+- 📩 Email: karaouii.abdesslam@gmail.com  
+
 
 ---
 
